@@ -1,6 +1,6 @@
 cask "hypermac" do
-  version "1.4.4,hypermac-1.4-6d23f23-20261115T050628Z-macos-arm64"
-  sha256 "0495ca23a0793fb1a5693df1faf75e984a95b3598c117223eff6b92f52d02b39"
+  version "1.5.0,hypermac-1.5-ec92a0b-20261118T120129Z-macos-arm64"
+  sha256 "18aae9b947043fc27d1989e82286e9bb5417317ddc73c1af34fc1ae5ded1b43a"
 
   url "https://github.com/keelos-dev/hyperMAC/releases/download/#{version.csv.second}/#{version.csv.second}.dmg"
   name "hyperMAC"
